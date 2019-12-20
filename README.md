@@ -30,7 +30,7 @@ Tips for Anycubic 4Max Pro
 - End G-code
 
 ## Print Setting
- - Posted by **Людмила Герасимова**
+ - Posted by **Kevin Gill** and **Людмила Герасимова**
    - https://www.thingiverse.com/thing:3778487
      - you can import the from from Preferences->Profiles->Import
  - Posted by **Людмила Герасимова**
@@ -48,5 +48,18 @@ I need to mention it, but direct drive extruder must not require retracts more t
 # Filament
 
 # Hotend
-
+  - Posted by **Людмила Герасимова** 
+    - Hot End Replacement
+    - https://www.thingiverse.com/.../forums/general/topic:39897
+  - Posted by **Emmanuele Villa**
+    - 4MAX Pro replace Print Head (official)
+    - https://cloud.video.taobao.com/play/u/843106490/p/2/e/6/t/1/228520444070.mp4?fbclid=IwAR3CnZV03FtBhzwKlJDWV6b2eLuwQ25Jpcrkdv7IhUvZHlx2r96zyYjrElQ
+    
 # Heatbed
+
+# Top cover
+  - Posted by **Marcin Dzius**
+```
+Im using it only with hips abs or petg.
+There s no need to use it with pla, same for front door;)
+```
