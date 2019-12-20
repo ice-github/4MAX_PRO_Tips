@@ -47,6 +47,7 @@ I need to mention it, but direct drive extruder must not require retracts more t
 
 # Filament
 
+
 # Hotend
   - Posted by **Людмила Герасимова** 
     - Hot End Replacement
@@ -55,6 +56,9 @@ I need to mention it, but direct drive extruder must not require retracts more t
     - 4MAX Pro replace Print Head (official)
     - https://cloud.video.taobao.com/play/u/843106490/p/2/e/6/t/1/228520444070.mp4?fbclid=IwAR3CnZV03FtBhzwKlJDWV6b2eLuwQ25Jpcrkdv7IhUvZHlx2r96zyYjrElQ
     
+# Calibration
+  - E-steps/mm
+
 # Heatbed
 
 # Top cover
@@ -62,4 +66,11 @@ I need to mention it, but direct drive extruder must not require retracts more t
 ```
 Im using it only with hips abs or petg.
 There s no need to use it with pla, same for front door;)
+```
+
+# Grease
+  - Posted by **Filip Jakubowski**
+```
+DONT USE WD40 IT'S NOT GREASE. You will ruin your printer or any balljoint or ANYTHING that needs lubrication.
+Use simple Machine Grease (TOWOT)
 ```
